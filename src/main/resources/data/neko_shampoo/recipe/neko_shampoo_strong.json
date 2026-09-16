@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "neko_shampoo",
+  "ingredients": [
+    {
+      "item": "neko_shampoo:neko_shampoo"
+    },
+    {
+      "item": "minecraft:milk_bucket"
+    }
+  ],
+  "result": {
+    "id": "neko_shampoo:neko_shampoo_strong",
+    "count": 1
+  }
+}
